@@ -1,0 +1,64 @@
+
+ul{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.heads{
+
+font-size: 1rem;
+font-weight: 600;
+}
+
+li{
+    list-style: none;
+    margin-bottom: 0.5rem;
+}
+
+.textF{
+        
+   
+    margin: 0 auto;
+    width:250px;
+
+}
+
+.socialL{
+    width:25px;
+    height: 25px;
+    margin-left: 15px;
+}
+
+.mainLogo{
+
+    margin-top:-70px;
+}
+
+
+@media (max-width:991px){
+    
+
+    .Logobb{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+    .textF{
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin: 0 auto 1rem auto;
+        width:350px;
+    
+    }
+
+    .socialL{
+        width:42px;
+        height: 42px;
+        margin-left: 20px;
+    }
+}

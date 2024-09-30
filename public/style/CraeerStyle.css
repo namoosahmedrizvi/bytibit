@@ -1,0 +1,532 @@
+.craeerCf{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.CRow1{
+  width: 100%;
+  height: auto;
+}
+.CarHeRect{
+  width: 3%;
+  height: auto;
+  margin: 0 0 0 22%;
+}
+.CarHead{
+  font-size: 4rem;
+  font-weight: 700;
+  margin: 0 0 0 25%;
+}
+.ImgCon{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding-bottom: 2rem;
+}
+
+.DivContent1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  position: relative;
+}
+
+.DivContent2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin:-4.5rem auto 0 auto;
+  position: absolute;
+  opacity: 0;
+}
+
+.EditCont{
+ width: 24rem;
+ height: 7rem;
+ 
+}
+
+.Headings{
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.tech{
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: normal;
+  height: auto;
+  justify-content:flex-end;
+  align-items: flex-end;
+  margin: -1.5rem 0 0 0;
+  color: #FA4000;
+}
+
+.wD{
+  width: 1rem;
+  height: auto;
+}
+
+
+.Vector7{
+  margin: 6.5rem 0 0 45%;
+}
+.StyRec{
+  margin:0 0 0 28%;
+}
+.ImgCon1{
+  margin: 14.5rem 0 0 0;
+}
+.ImgCon2{
+  margin-top: -.8rem;
+}
+
+.ImgCon3{
+  margin-top: -4.8rem;
+}
+
+.ImgCon،  .DivContent1 :hover{
+  opacity: 0;
+}
+.ImgCon،  .DivContent2 :hover{
+  opacity: 1;
+}
+
+.ImgCon:hover .DivContent1 {
+  opacity: 0;
+}
+
+.ImgCon:hover .DivContent2 {
+  opacity: 1;
+  z-index: 1;
+}
+
+
+
+
+@media (max-width:500px){
+
+  .CarHeRect{
+    width: 5%;
+    height: auto;
+    margin: 0 0 0 22%;
+  }
+  .CarHead{
+    font-size: 1.4rem;
+    font-weight:700;
+    margin: 0 0 0 25%;
+  }
+  
+  
+  
+  
+  .wWuImg{
+    width: 250px;
+    height: 360px;
+  }
+
+  .wWuImga{
+    width: 250px;
+    height: 250px;
+  margin-top: 4.5rem;
+  }
+
+.EditCont{
+  width: 220px;
+  height: 110px;
+  
+}
+.tech{
+
+  float: inline-end;
+  font-size: 8px;
+  margin: 1px auto;
+}
+
+.textCont{
+  float: inline-start;
+  
+}
+
+.Headings{
+  font-size: 10px;
+  
+
+}
+
+
+.wD{
+  width: 10px;
+  height: auto;
+  margin-right: 2px;
+}
+
+.ImgCon1{
+
+margin-top: 70px;
+}.ImgCon3{
+
+margin-top: -36px;
+}
+.ImgCon2{
+
+margin-top: -7px;
+}
+.StyRec{
+  width:150px;
+  height: auto;
+  margin:0 0 0 130px;
+}
+.Vector7{
+ width: 80px;
+ height: auto;
+}
+}
+
+@media (min-width:501px) and (max-width:767px){
+
+  .wWuImg{
+    width: 250px;
+    height: 360px;
+  }
+  .CarHeRect{
+    width: 3%;
+    height: auto;
+    margin: 0 0 0 22%;
+  }
+  .CarHead{
+    font-size: 1.5rem;
+    font-weight:bold;
+    margin: 0 0 0 25%;
+  }
+  
+  
+  
+  
+  .wWuImga{
+    width: 250px;
+    height: 250px;
+  margin-top: 4.5rem;
+  }
+
+.EditCont{
+  width: 220px;
+  height: 110px;
+  
+}
+.tech{
+
+  float: inline-end;
+  font-size: 8px;
+  margin: 1px auto;
+}
+
+.textCont{
+  float: inline-start;
+  
+}
+
+.Headings{
+  font-size: 10px;
+  
+
+}
+
+
+.wD{
+  width: 10px;
+  height: auto;
+  margin-right: 2px;
+}
+
+.ImgCon1{
+
+margin-top: 100px;
+}.ImgCon3{
+
+margin-top: -36px;
+}
+.ImgCon2{
+
+margin-top: -7px;
+}
+.StyRec{
+  width:150px;
+  height: auto;
+  margin: 0 0 0 200px;
+}
+.Vector7{
+ width: 80px;
+ height: auto;
+ 
+}
+
+
+}
+
+@media (min-width:768px) and (max-width:991px){
+
+  .CarHeRect{
+    width: 3%;
+    height: auto;
+    margin: 4rem 0 0 22%;
+  }
+  .CarHead{
+    font-size: 3rem;
+    font-weight:bold;
+    margin: 0 0 0 25%;
+  }
+  
+  
+  
+  .ImgCon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  justify-items: center;
+  align-content: center;
+  }
+
+  .wWuImg{
+    width: 340px;
+    height: 450px;
+  }
+
+  .wWuImga{
+    width: 340px;
+    height: 340px;
+  margin-top: 4.5rem;
+  }
+
+.EditCont{
+  width: 320px;
+  height: 110px;
+  
+}
+.tech{
+
+  float: inline-end;
+  font-size: 8px;
+  margin: 1px auto;
+}
+
+.textCont{
+  float: inline-start;
+  
+}
+
+.Headings{
+  font-size: 14px;
+  
+
+}
+
+
+.wD{
+  width: 12px;
+  height: auto;
+  margin-right: 2px;
+}
+
+.ImgCon1{
+
+margin-top: 98px;
+}
+.ImgCon3{
+
+margin-top: -45px;
+}
+
+.ImgCon2{
+
+margin-top: -7px;
+}
+
+.ImgCon4{
+
+margin-top: 145px;
+}
+.StyRec{
+  width:190px;
+  height: auto;
+  margin: 0 0 0 140px;
+}
+.Vector7{
+ width: 80px;
+ height: auto;
+ margin: 30px 0 0 200px;
+ 
+}
+
+
+}
+
+@media (min-width:992px) and (max-width:1200px){
+  .ImgCon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  justify-items: center;
+  align-content: center;
+  }
+
+  .wWuImg{
+    width: 300px;
+    height: 410px;
+  }
+
+  .wWuImga{
+    width: 300px;
+    height: 300px;
+  margin-top: 4.5rem;
+  }
+
+.EditCont{
+  width: 280px;
+  height: 110px;
+  
+}
+.tech{
+
+  float: inline-end;
+  font-size: 8px;
+  margin: 1px auto;
+}
+
+.textCont{
+  float: inline-start;
+  
+}
+
+.Headings{
+  font-size: 14px;
+  
+
+}
+
+
+.wD{
+  width: 12px;
+  height: auto;
+  margin-right: 2px;
+}
+
+.ImgCon1{
+
+margin-top: 98px;
+}
+.ImgCon3{
+
+margin-top: -48px;
+}
+
+.ImgCon2{
+
+margin-top: -7px;
+}
+
+
+.StyRec{
+  width:190px;
+  height: auto;
+  margin: -44px 0 0 100px;
+}
+.Vector7{
+ width: 80px;
+ height: auto;
+ margin: 30px 0 0 160px;
+ 
+}
+
+
+}
+@media (min-width:1200px) and (max-width:1430px){
+  .ImgCon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  justify-items: center;
+  align-content: center;
+  }
+
+  .wWuImg{
+    width: 380px;
+    height: 490px;
+  }
+
+  .wWuImga{
+    width: 380px;
+    height: 380px;
+  margin-top: 4.5rem;
+  }
+
+.EditCont{
+  width: 350px;
+  height: 110px;
+  
+}
+.tech{
+
+  float: inline-end;
+  font-size: 8px;
+  margin: 1px auto;
+}
+
+.textCont{
+  float: inline-start;
+  
+}
+
+.Headings{
+  font-size: 14px;
+  
+
+}
+
+
+.wD{
+  width: 12px;
+  height: auto;
+  margin-right: 2px;
+}
+
+.ImgCon1{
+
+margin-top: 143px;
+}
+.ImgCon3{
+
+margin-top: -58px;
+}
+
+.ImgCon2{
+
+margin-top: -7px;
+}
+
+
+.StyRec{
+  width:240px;
+  height: auto;
+  margin: -38px 0 0 140px;
+}
+.Vector7{
+ width: 130px;
+ height: auto;
+ margin: 30px 0 0 180px;
+ 
+}
+
+
+}

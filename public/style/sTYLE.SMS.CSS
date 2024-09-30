@@ -1,0 +1,700 @@
+.WorkWithUsCf{
+  margin-top: 6rem;
+}
+
+.Rectangle33{
+  width: 3.5%;
+  height: auto;
+  margin: 0 0 0 17.7%;
+  
+  
+}
+
+
+.headingWwu{
+  font-size:300%;
+  font-weight: 700;
+  margin-top: 0 auto;
+  text-align: center;
+  text-transform: uppercase;
+  margin: -.5rem 0 0 0;
+}
+
+.image-hover-container {
+  position: relative;
+  width: 100%; 
+  height: 735px; 
+  overflow: hidden;
+}
+
+.ImgDiv1,
+.ImgDiv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.3s ease; 
+}
+
+.ImgDiv1 {
+  z-index: 1;
+  opacity: 1; 
+  margin-top: 5rem;
+
+  
+}
+
+.ImgDiv2 {
+  z-index: 0;
+  opacity: 1; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+
+.image-hover-container:hover .ImgDiv1 {
+  opacity: 0; 
+}
+
+.image-hover-container:hover .ImgDiv2 {
+  opacity: 1;
+  z-index: 2; 
+}
+
+.WorkWithUsImga{
+margin: .8rem 0 0 0;
+
+}
+.WorkWithUsImg,
+.WorkWithUsImga {
+  width: 80%;
+  height: auto;
+  border-radius: 4rem;
+}
+
+.contentText {
+ width: 70%;
+  margin-top: 1rem;
+}
+
+.headings {
+  font-size: 1rem;
+
+}
+
+.tech {
+  font-size:10px;
+  color: gray;
+margin-top: 3px;
+  float: inline-end;
+  color: #fa4000;
+}
+
+
+.descrip {
+  font-size: 0.8rem;
+  color: #555;
+}
+
+
+.WebDevelopment{
+  width: 1rem;
+  height: auto;
+}
+.Group33{
+width: 55%;
+height: auto;
+margin: -87rem 0 0 38%;
+
+
+
+}
+
+
+
+.Vector7{
+width: 26%;
+height: auto;
+margin: -83rem 0 0 48%;
+
+
+
+}
+
+.WorkWithUsImg{
+margin-top: 0.5rem;
+}
+
+
+@media (max-width:500px){
+
+
+
+.WorkWithUsCf{
+  margin-top: 2rem;
+}
+
+.Rectangle33{
+  width: 5%;
+  height: auto;
+  margin: 0 0 0 -1%;
+  
+  
+}
+
+
+.headingWwu{
+  font-size:200%;
+  font-weight: 700;
+  margin-top: 0 auto;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0rem 0 0 0;
+}
+
+
+
+
+
+.image-hover-container {
+position: relative;
+width: 100%; /* Adjust as needed */
+height:30rem;
+overflow: hidden;
+}
+
+
+.Group33{
+width: 50%;
+height: auto;
+margin: -59rem 0 0 33%;
+
+
+
+}
+
+
+
+.Vector7{
+width: 26%;
+height: auto;
+margin: -57rem 0 0 44%;
+
+
+
+}
+.WorkWithUsImga{
+margin-top: 1rem;
+
+}
+
+
+.WorkWithUsImg2{
+
+
+margin-top: -6rem;
+
+
+
+}
+
+.WorkWithUsImg3{
+
+margin-top: -6rem;
+
+}
+
+.tech {
+font-size:10px;
+color: gray;
+margin: 3px 0 0 0;
+float: inline-start;
+color: #fa4000;
+}
+.headings {
+font-size: 0.8rem;
+
+}
+
+.descrip {
+font-size: 0.8rem;
+color: #555;
+margin-top:1.5rem ;
+}
+
+
+}
+
+
+
+
+@media (min-width:500px) and (max-width:768px){
+
+
+
+.WorkWithUsCf{
+  margin-top: 2rem;
+}
+
+.Rectangle33{
+  width: 5%;
+  height: auto;
+  margin: 0 0 0 -1%;
+  
+  
+}
+
+
+.headingWwu{
+  font-size:250%;
+  font-weight: 700;
+  margin-top: 0 auto;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0rem 0 0 0;
+}
+
+
+
+
+
+.image-hover-container {
+position: relative;
+width: 80%; /* Adjust as needed */
+height:38rem;
+justify-content: center;
+overflow: hidden;
+}
+
+
+.Group33{
+width: 45%;
+height: auto;
+margin: -75rem 0 0 33%;
+
+
+
+}
+
+
+
+.Vector7{
+width: 22%;
+height: auto;
+margin: -72rem 0 0 39%;
+
+
+
+}
+.WorkWithUsImg{
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0 0 0 20%;
+
+}
+.WorkWithUsImga{
+margin: -3rem 0 0 20%;
+
+}
+
+
+.WorkWithUsImg2{
+
+
+margin-top: -6rem;
+
+
+
+}
+
+.WorkWithUsImg3{
+
+margin-top: -6rem;
+
+}
+
+.WorkWithUsImg3a{
+
+margin-top: -4rem;
+
+}
+
+
+.contentText{
+width:80%;
+margin: 0 0 0 20%;
+
+}
+
+.tech {
+font-size:10px;
+color: gray;
+margin: 3px 0 0 0;
+float: inline-end;
+color: #fa4000;
+}
+.headings {
+font-size: 0.8rem;
+
+}
+
+.descrip {
+font-size: 0.8rem;
+color: #555;
+margin-top:1.5rem ;
+}
+
+
+}
+
+
+@media (min-width:768px) and (max-width:991px){
+
+
+
+.WorkWithUsCf{
+  margin-top: 2rem;
+}
+
+.Rectangle33{
+  width: 5.2%;
+  height: auto;
+  margin: 0 0 0 10%;
+  
+  
+}
+
+.imgDiv2R{
+  margin:-2rem 0 0 0;
+}
+.headingWwu{
+  font-size:350%;
+  font-weight: 700;
+  margin-top: 0 auto;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0rem 0 0 0;
+}
+
+
+
+
+
+.image-hover-container {
+position: relative;
+width: 100%; /* Adjust as needed */
+height:48rem;
+justify-content: center;
+overflow: hidden;
+}
+
+
+.Group33{
+width: 65%;
+height: auto;
+margin: -87rem 0 0 25%;
+
+
+
+}
+
+
+
+.Vector7{
+width: 27%;
+height: auto;
+margin: -87rem 0 0 42%;
+
+
+
+}
+.WorkWithUsImg{
+display: flex;
+width: 100%;
+height: auto;
+justify-content: center;
+align-items: center;
+margin: 0 auto;
+
+}
+.WorkWithUsImga{
+width: 100%;
+height: auto;
+margin: 5.5rem auto 0 auto;
+
+}
+
+
+.WorkWithUsImg2a{
+margin-top: 7rem;
+
+
+
+
+
+}
+
+.WorkWithUsImg3{
+
+margin-top:3rem;
+
+}
+
+.WorkWithUsImg3a{
+
+margin-top:9rem;
+}
+
+
+.contentText{
+width:90%;
+margin: 2rem auto 0 auto;
+
+}
+
+.tech {
+font-size:1rem;
+font-weight: 500;
+color: gray;
+margin: 3px 0 0 0;
+float: inline-start;
+color: #fa4000;
+}
+.headings {
+font-size: 1.6rem;
+font-weight:400;
+
+}
+
+.descrip {
+font-size: 1.3rem;
+color: #555;
+margin-top:1.5rem ;
+}
+
+
+}
+
+@media (min-width:991px) and (max-width:1200px){
+
+
+
+.WorkWithUsCf{
+  margin-top: 2rem;
+}
+
+.Rectangle33{
+  width: 5.2%;
+  height: auto;
+  margin: 0 0 0 3%;
+  
+  
+}
+
+
+.headingWwu{
+  font-size:250%;
+  font-weight: 700;
+  margin-top: 0 auto;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0rem 0 0 0;
+}
+
+
+
+
+
+.image-hover-container {
+position: relative;
+width: 100%; /* Adjust as needed */
+height:48rem;
+justify-content: center;
+overflow: hidden;
+}
+
+
+.Group33{
+width: 25%;
+height: auto;
+margin: 0;
+
+
+
+}
+
+
+
+.Vector7{
+width: 37%;
+height: auto;
+margin: 0;
+
+
+
+}
+.WorkWithUsImg{
+
+width:100%;
+height: auto;
+margin: -2rem 0 0 0;
+
+}
+.WorkWithUsImga{
+width: 100%;
+height: auto;
+margin:20% auto 0 auto;
+
+}
+
+
+
+
+.contentText{
+width:98%;
+margin: 2rem auto 0 auto;
+
+}
+
+.tech {
+font-size:0.5rem;
+font-weight: 500;
+color: gray;
+margin: 0px 0 0 0;
+float: inline-end;
+color: #fa4000;
+}
+.headings {
+font-size: 1.2rem;
+font-weight:400;
+
+}
+
+.descrip {
+font-size: 1rem;
+color: #555;
+margin-top:1.5rem ;
+}
+
+.img-row2{
+margin-top: -7rem;
+}
+
+}
+
+@media (min-width:1201px) and (max-width:1534px){
+
+
+
+.WorkWithUsCf{
+  margin-top: 2rem;
+}
+
+.Rectangle33{
+  width: 5.2%;
+  height: auto;
+  margin: 0 0 0 5%;
+  
+  
+}
+
+
+.headingWwu{
+  font-size:300%;
+  font-weight: 700;
+  margin-top: 0 auto;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0rem 0 0 0;
+}
+
+
+
+
+
+.image-hover-container {
+position: relative;
+width: 100%; /* Adjust as needed */
+height:48rem;
+justify-content: center;
+overflow: hidden;
+}
+
+
+.Group33{
+width: 75%;
+height: auto;
+margin: 0;
+
+
+
+}
+
+
+
+.Vector7{
+width: 37%;
+height: auto;
+margin: 0;
+
+
+
+}
+.WorkWithUsImg{
+display: flex;
+width: 100%;
+height: auto;
+justify-content: center;
+align-items: center;
+margin: 7rem auto 0 auto;
+
+}
+.WorkWithUsImga{
+width: 100%;
+height: auto;
+margin: 10.5rem auto 0 auto;
+
+}
+
+
+
+.contentText{
+width:98%;
+margin: 2rem auto 0 auto;
+
+}
+
+.tech {
+font-size:0.8rem;
+font-weight: 500;
+color: gray;
+margin: 0px 0 0 0;
+float: inline-end;
+color: #fa4000;
+}
+.headings {
+font-size: 1rem;
+font-weight:800;
+
+}
+
+.descrip {
+font-size: 1rem;
+color: #555;
+margin-top:1.5rem ;
+}
+
+.img-row2{
+margin-top: -7rem;
+}
+
+.divImg2{
+  margin:-4rem auto 0 auto;
+}
+} 

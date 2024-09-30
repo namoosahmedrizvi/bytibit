@@ -1,0 +1,235 @@
+.PortFolio{
+
+
+  text-align: center;
+ 
+  margin: -4rem 0 0 0 ;
+}
+.portSpring{
+width: 10% ;
+height: auto;
+margin: -4rem 0 -2rem 78%;
+
+
+
+}
+
+
+.imgs{
+  display: flex;
+  
+  width: 4rem;
+  
+  margin: 1% 0 0 2rem;
+  
+  float: left;
+}
+.portHead{
+  font-size: 300% ;
+  font-weight: 800 ;
+  margin-bottom: 2rem;
+}
+
+
+.port{
+  color:#FA4000 !important;
+}
+
+
+
+
+.rowSet{
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  align-content: center;
+  width: 75%;
+}
+
+.SlImg{
+width: 70%;
+height: auto;
+
+margin: 0 0 0 0;
+}
+
+.slideGen {
+
+ 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+height: auto;
+ background-color: #fff;
+  justify-content: center;
+  align-items: center;
+
+  
+
+  margin: 0 auto;
+ 
+ 
+ 
+}
+
+.TextCont{
+width: 85%;
+margin: -1rem auto 0 auto;
+}
+.EmpAbout{
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.EmpName{
+font-size: 2rem;
+font-weight: 500;
+
+}
+.imgSet{
+margin-left: 3%;
+
+}
+
+
+@media (max-width:768px){
+
+  .slideGen {
+
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  padding: 0 0 4rem 0;
+   background-color: #fff;
+    justify-content: center;
+    align-items: center;
+  
+    margin: 0 auto;
+   
+   
+   
+  }
+
+
+
+
+
+.imgSet{
+margin-left: 10%;
+
+}
+
+.portSpring{
+  width: 20% ;
+  height: auto;
+  margin: -4rem 0 -2rem 75%;
+  
+  
+  
+  }
+  
+  
+  
+
+}
+@media (max-width:991px){
+
+  .slideGen {
+
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  padding: 0 0 4rem 0;
+   background-color: #fff;
+    justify-content: center;
+    align-items: center;
+  
+    margin: 0 auto;
+   
+   
+   
+  }
+
+
+
+
+
+.imgSet{
+margin-left: 10%;
+
+}
+
+.portSpring{
+  width: 20% ;
+  height: auto;
+  margin: -4rem 0 -2rem 75%;
+  
+  
+  
+  }
+
+  .imgs{
+
+    margin-top: 3%;
+  }
+  
+  
+  
+
+}
+
+
+@media (max-width:1534px){
+
+  .slideGen {
+
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  padding: 4rem 0 4rem 0;
+   background-color: #fff;
+    justify-content: center;
+    align-items: center;
+  
+    margin: 0 auto;
+
+   
+   
+   
+  }
+
+
+
+
+
+.imgSet{
+margin-left: 10%;
+
+}
+
+.portSpring{
+  width: 20% ;
+  height: auto;
+  margin: -4rem 0 -2rem 75%;
+
+  
+  
+  
+  }
+
+  .imgs{
+width:2rem;
+
+
+  }
+  
+  
+  
+
+}

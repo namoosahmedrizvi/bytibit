@@ -1,0 +1,977 @@
+
+.BanConF{
+  width: 100%;
+  height: auto;
+
+  
+  padding: 0 0 3rem 0;
+margin: auto;
+
+
+}
+
+.RectBan{
+
+  margin: 5rem  0 0 8rem;
+}
+
+.ReBtn{
+  background-color:#000;
+  border: none;
+  
+}
+
+.ReBtn:hover{
+  background-color: #FA4000 ;
+  
+}
+.ReBtn{
+
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  width: 30%;
+
+  height: auto;
+font-size: 1rem !important;
+margin: 1.5rem auto 0 auto;
+
+}
+
+.ExpText{
+  font-size: 350%;
+  font-weight: 700;
+  text-align: center;
+  margin:-3rem 0   0 0;
+}
+
+
+.LetText{
+  font-size: 130%;
+  font-weight: 500;
+  margin:2rem 0   0 0;
+}
+
+
+
+.content{
+ text-align: center;
+  margin: 0rem auto;
+}
+
+.LeftImg{
+width:60%;
+height: auto;
+margin: -7rem  0rem 0rem -6rem;
+}
+
+.RightImg{
+width:60%;
+height: auto;
+margin: -13rem  0 0 10%;
+}
+
+@media (max-width:500px){
+  .BanSpring{
+  display: flex;
+    width: 25%;
+    height: auto;
+   
+    margin:-3rem auto 0 auto;
+  }
+
+  .RectBan{
+    width:8%;
+    height: auto;
+  display:flex;
+  margin: .5rem auto 0 auto;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  align-items:center;
+
+  }
+
+  .ExpText{
+    font-size: 200%;
+    font-weight: bold;
+    margin-top:-1rem;
+  }
+
+
+  .LetText{
+    font-size: 100%;
+    font-weight: 500;
+    margin-top: 2rem;
+  }
+
+
+
+  .content{
+   text-align: center;
+    margin: 3rem auto;
+  }
+
+  .ReBtn{
+    width:100%;
+    height:auto;
+    margin-top:-1rem;
+  }
+
+.LeftImg{
+width:40%;
+height: auto;
+  margin: 1rem  auto 0 auto;
+}
+
+.RightImg{
+  width:40%;
+  height: auto;
+  margin: 1rem  auto 0 auto;
+}
+
+
+}
+
+
+@media (min-width:501px) and (max-width:768px){
+  .BanSpring{
+  display: flex;
+    width:15%;
+    height: auto;
+   
+    margin:-1rem auto 0 auto;
+  }
+
+  .RectBan{
+    width:5%;
+    height: auto;
+  display:flex;
+  margin: 0rem auto 0 auto;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  align-items:center;
+
+  }
+
+  .ReBtn{
+    width: 80%;
+    height: auto;
+    margin:-4rem auto 0 auto;
+  }
+
+  .ExpText{
+    font-size: 250%;
+    font-weight: bold;
+  }
+
+
+  .LetText{
+    font-size: 130%;
+    font-weight: 500;
+    margin-top: .5rem;
+  }
+
+
+
+  .content{
+   text-align: center;
+    margin: 5rem auto;
+  }
+
+.LeftImg{
+width:25%;
+height: auto;
+  margin: -1rem  auto 0 auto;
+}
+
+.RightImg{
+  width:25%;
+  height: auto;
+  margin: 1rem  auto 0 auto;
+}
+
+
+}
+
+
+
+@media (min-width:769px) and (max-width:991px){
+  .BanSpring{
+  display: flex;
+    width: 30%;
+    height: auto;
+   
+    margin:0 auto;
+  }
+
+  .RectBan{
+    width: 10%;
+    height: auto;
+  display:flex;
+  margin: 5rem auto 0 auto;
+  justify-content: center;
+  align-items: center;
+
+  justify-items: center;
+  align-items:center;
+
+  }
+
+  .ReBtn{
+    width: 120%;
+
+    height: auto;
+font-size: 2rem !important;
+
+  }
+
+  .ExpText{
+    font-size: 300%;
+    font-weight: bold;
+  }
+
+
+  .LetText{
+    font-size: 160%;
+    font-weight: 500;
+  }
+
+
+
+  .content{
+   text-align: center;
+    margin: 5rem auto;
+  }
+
+.LeftImg{
+width:50%;
+height: auto;
+  margin: 5rem  auto 0 auto;
+}
+
+.RightImg{
+  width:50%;
+  height: auto;
+  margin: 5rem  auto 0 auto;
+}
+
+
+}
+
+
+@media (min-width:991px) and (max-width:1200px){
+  .BanSpring{
+  display: flex;
+    width: 50%;
+    height: auto;
+   
+    margin:0rem 0 0 0 ;
+  }
+
+  .RectBan{
+    width: 15%;
+    height: auto;
+
+  margin: 3rem 0 0 5rem;
+ 
+
+  }
+
+  .ReBtn{
+
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    width: 30%;
+
+    height: auto;
+font-size: 1rem !important;
+margin: .5rem auto 0 auto;
+
+  }
+
+  .ExpText{
+    font-size: 250%;
+    font-weight: 700;
+    text-align: center;
+    margin:-1rem 0   0 0;
+  }
+
+
+  .LetText{
+    font-size: 110%;
+    font-weight: 500;
+    margin:.5rem 0   0 0;
+  }
+
+
+
+  .content{
+   text-align: center;
+    margin: 0rem auto;
+  }
+
+.LeftImg{
+width:60%;
+height: auto;
+  margin: -5rem  0rem 0rem -6rem;
+}
+
+.RightImg{
+  width:60%;
+  height: auto;
+  margin: -13rem  0 0 200%;
+}
+
+
+}
+
+@media (min-width:1201px) and (max-width:1534px){
+  .BanSpring{
+  display: flex;
+    width: 80%;
+    height: auto;
+   
+    margin:0rem 0 0 0 ;
+  }
+
+  .RectBan{
+    width: 20%;
+    height: auto;
+
+  margin: 6rem 0 0 5rem;
+ 
+
+  }
+
+  .ReBtn{
+
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    width: 70%;
+
+    height: auto;
+font-size: 2rem !important;
+margin: 2rem auto 0 auto;
+
+  }
+
+  .ExpText{
+    font-size: 300%;
+    font-weight: 700;
+    text-align: center;
+    margin:-5rem 0   0 0;
+  }
+
+
+  .LetText{
+    font-size: 150%;
+    font-weight: 500;
+    margin:2rem 0   0 0;
+  }
+
+
+
+  .content{
+   text-align: center;
+    margin: 0rem auto;
+  }
+
+.LeftImg{
+width:80%;
+height: auto;
+  margin: -8rem  0rem 0rem -6rem;
+}
+
+.RightImg{
+  width:80%;
+  height: auto;
+  margin: -22rem  0 0 190%;
+}
+
+
+}
+
+
+
+
+/* *{
+
+  box-sizing: border-box;
+  padding: 0;
+  margin: auto;
+}
+
+
+
+
+
+.RectangleBan{
+ width:60% ;
+ height: auto;
+ margin: 11rem 0 0 2rem;
+
+
+}
+
+.ExpText{
+  font-size:450%;
+  font-weight:700;
+  
+}
+
+.LetText{
+  font-size:200%;
+  font-size: 600;
+  margin-top: 3rem;
+}
+
+
+.ReBtn {
+  width: 70% ;
+  height: 5rem;
+   justify-content: center;
+   align-items: center;
+   margin: 3rem 0 0 3rem;
+   background-color: black;
+   color: white;
+   font-size: 1.5rem ;
+   border: none;  
+   cursor: pointer ; 
+ }
+
+ .ReBtn:hover{
+background-color: #FA4000 ;
+
+ }
+
+ .RightImg{
+
+  width: 100%;
+  height: auto;
+  margin-top: -41.5%;
+ }
+
+
+ @media (max-width:500px){
+.SpringBan{
+  width: 30%;
+  height: auto;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
+
+  .RectangleBan{
+    width:10% ;
+    height: auto;
+    margin:1rem auto 0 auto;
+   
+   
+   }
+   
+   .ExpText{
+     font-size:150%;
+     font-weight:700;
+     
+   }
+   
+   .LetText{
+     font-size:80%;
+     font-size: 600;
+     margin-top: 1rem;
+   }
+   
+   .imgSet{
+    position: relative;
+   }
+   .BtnSet{
+    position: absolute;
+   }
+   
+   .ReBtn {
+    display: flex;
+     width: 40% ;
+     height: 2rem;
+      justify-content: center;
+      align-items: center;
+      margin: 1rem auto 0 auto;
+      background-color: black;
+      color: white;
+      font-size: .8rem ;
+      border: none;  
+      cursor: pointer ; 
+    }
+   
+    .ReBtn:hover{
+   background-color: #FA4000 ;
+   
+    }
+   
+    .LeftImg{
+   
+     width: 50%;
+     height: auto;
+     margin-top:4.5rem;
+    }
+   .RightImg{
+   
+     width: 50%;
+     height: auto;
+     margin: 2rem 0 0 0;
+    
+    }
+   
+  
+
+ } */
+
+/* 
+
+.ContBan{
+  width: 100%;
+  height:auto;
+  padding:1rem 0 0 0rem;
+
+}
+
+.SpringBan{
+  width:30%;
+  height: auto;
+  
+  margin:0rem 0 0  4rem ;
+
+  
+}
+
+
+
+.RectangleBan{
+ width:4rem ;
+ height: auto;
+ margin: 11rem 0 0 2rem;
+
+
+ 
+
+}
+
+
+.ExpText{
+  font-size:4.8rem;
+  font-weight:700;
+  
+}
+
+.LetText{
+  font-size: 2.1rem;
+  font-size: 600;
+  margin-top: 3rem;
+}
+
+button.ReBtn {
+ width: 22rem ;
+ height: 5rem;
+  justify-content: center;
+  align-items: center;
+  margin: 1.5rem 0 0 9rem;
+  background-color: black !important;
+  color: white;
+  font-size: 1.5rem ;
+  border: none;  
+  cursor: pointer ; 
+}
+
+
+button.ReBtn:hover {
+  background-color: #FA4000  !important;
+  color: #f7f7f7;
+}
+
+
+.LeftImg{
+
+margin:-4rem 0 0 auto;
+
+}
+
+
+.RightImg{
+  width: 95%;
+  height: auto;
+  margin:-16rem 0 0 auto; 
+
+}
+
+@media (max-width:500px){
+
+  .SpringBan{
+    width:34%;
+    height: auto;
+    
+    margin:0 0 0 30% ;
+  
+    
+  }
+  
+  
+  
+  .RectangleBan{
+   width:10% ;
+   height: auto;
+   margin: 3% 0 0 0;
+  
+  }
+  
+  
+  .ExpText{
+    font-size:180%;
+    font-weight:700;
+    margin: 7% 0 0  0;
+    
+  }
+  
+  .LetText{
+    font-size: 100%;
+    font-size: 600;
+    margin-top:7% ;
+  }
+  
+  button.ReBtn {
+   width: 60% ;
+   height: 2% ;
+    justify-content: center;
+    align-items: center;
+    margin: 7% auto;
+    background-color: black !important;
+    color: white;
+    font-size: 100% ;
+    border: none;  
+    cursor: pointer; 
+  }
+  
+  
+  button.ReBtn:hover {
+    background-color: #444;
+    color: #f7f7f7;
+  }
+  
+  .ImgRL{
+    margin: 0rem auto 0rem auto;
+  }
+  
+  .LeftImg{
+  width: 45% ;
+  height: auto;
+  margin:30% 0 0  0%;
+  
+  }
+  
+  
+  .RightImg{
+    width:50%;
+    height: auto;
+    margin: 7% 0 0 0% ;
+  }
+  
+     .imgSet{
+    position: relative;
+    margin:auto;
+   
+   }
+.BtnSet{
+  position: absolute;
+}
+
+
+
+
+}
+
+@media (min-width:500px) and (max-width:768px){
+
+  .SpringBan{
+    display: flex;
+    width:13%;
+    height: auto;
+    justify-content: center;
+    margin:0 auto 0 auto;
+  
+    
+  }
+  
+  
+  
+  .RectangleBan{
+   width:5% ;
+   height: auto;
+   margin: 3% 0 0 0;
+  
+  }
+  
+  
+  .ExpText{
+    font-size:180%;
+    font-weight:700;
+    margin: 7% 0 0  0;
+    
+  }
+  
+  .LetText{
+    font-size: 100%;
+    font-size: 600;
+    margin-top:7% ;
+  }
+  
+  button.ReBtn {
+   width: 40% ;
+   height: 2% ;
+    justify-content: center;
+    align-items: center;
+    margin: 7% auto;
+    background-color: black !important;
+    color: white;
+    font-size: 100% ;
+    border: none;  
+    cursor: pointer; 
+  }
+  
+  
+  button.ReBtn:hover {
+    background-color: #444;
+    color: #f7f7f7;
+  }
+  
+  .ImgRL{
+    margin:0rem auto 0rem auto;
+  }
+  
+  .LeftImg{
+  width: 45% ;
+  height: auto;
+  margin: 30% 0 0  0%;
+  
+  }
+  
+  
+  .RightImg{
+    width:50%;
+    height: auto;
+    margin: 7% 0 0 0% ;
+  }
+
+
+  .imgSet{
+    position: relative;
+    margin:auto;
+   
+   }
+.BtnSet{
+  position: absolute;
+}
+
+
+
+
+
+
+}
+
+
+@media (min-width:768px) and (max-width:991px){
+
+  .SpringBan{
+
+    display: flex;
+    width:30%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    margin:0 auto 0 auto;
+  
+    
+  }
+  
+  
+  
+  .RectangleBan{
+   width:10% ;
+   height: auto;
+   margin: 3% 0 0 0;
+  
+  }
+  
+  
+  .ExpText{
+    font-size:300%;
+    font-weight:700;
+    margin: 7% 0 0  0;
+    
+  }
+  
+  .LetText{
+    font-size: 150%;
+    font-size: 600;
+    margin-top:7% ;
+  }
+  
+  button.ReBtn {
+   width: 50% ;
+   height:auto ;
+    justify-content: center;
+    align-items: center;
+    margin: 7% auto;
+    background-color: black !important;
+    color: white;
+    font-size: 200% ;
+    border: none;  
+    cursor: pointer; 
+  }
+  
+  
+  button.ReBtn:hover {
+    background-color: #444;
+    color: #f7f7f7;
+  }
+  
+  .ImgRL{
+    margin: 0 auto 6rem auto;
+  }
+  
+  .LeftImg{
+  width: 45% ;
+  height: auto;
+  margin: 30% 0 0  0%;
+  
+  }
+  
+  
+  .RightImg{
+    width:50%;
+    height: auto;
+    margin: 7% 0 0 0% ;
+  }
+
+  .imgSet{
+    position: relative;
+    margin:auto;
+   
+   }
+.BtnSet{
+  position: absolute;
+}
+
+
+
+
+}
+
+@media (min-width:992px) and (max-width:1200px){
+
+.SpringBan{
+  width: 65%;
+  height: auto;
+
+}
+
+.RectangleBan{
+  width: 55%;
+  height: auto;
+  margin: 7.5rem 0 0 3rem;
+}
+
+.ExpText{
+  font-size: 3.3rem;
+  font-weight: 700;
+}
+.LetText{
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+button .ReBtn{
+  padding: 3rem 12rem;
+  height: 5rem ;
+}
+button .ReBtn :hover{
+  padding: 3rem 12rem;
+  height: 5rem ;
+  background-color: #FA4000 ;
+}
+
+.LeftImg{
+  width: 95%;
+  height: auto;
+  margin: 4rem auto 0 auto;
+}
+
+
+.RightImg{
+width: 35rem;
+height:21rem;
+margin: 0 auto;
+
+}
+
+}
+
+@media (min-width:1201px) and (max-width:1534px){
+
+.SpringBan{
+  width: 14rem;
+  height: auto;
+  margin: 0 0 0 0;
+
+}
+
+.RectangleBan{
+  width: 55%;
+  height: auto;
+  margin: 7.5rem 0 0 3rem;
+}
+
+.ExpText{
+  font-size: 4.3rem;
+  font-weight: 700;
+}
+.LetText{
+  font-size: 2.2rem;
+  font-weight: 400;
+}
+
+button .ReBtn{
+  padding: 5rem 15rem;
+  height: 5rem ;
+}
+button .ReBtn :hover{
+  padding: 3rem 12rem;
+  height: 5rem ;
+  background-color: #FA4000 ;
+}
+
+.LeftImg{
+  width: 95%;
+  height: auto;
+  margin: 4.7rem auto 0 auto;
+}
+
+
+.RightImg{
+width: 39rem;
+height:27rem;
+margin: 0 auto;
+
+}
+
+}
+  */

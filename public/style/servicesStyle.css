@@ -1,0 +1,755 @@
+.wOrOw {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 5rem 0;
+    
+  }
+  
+  .WeWork {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: auto;
+    margin: 0 auto
+  }
+  
+  .WoToprect {
+    width: 2rem;
+    height: auto;
+    margin: 5rem 0 0 22%;
+  }
+  
+  .WORect {
+    width: 13.8125rem;
+    height: 13.8125rem;
+  }
+  
+  .WorkOnSGDiv {
+    margin: -4rem 0 0 1rem;
+  }
+  
+  .WorkOnG {
+    width: 14.75rem;
+    background-color: #ec956d;
+    border-radius: 14rem;
+    margin: -32rem 0 0 1rem;
+  }
+  
+  .WorkOnSBG {
+    width: 10rem;
+    height: 24rem;
+    margin: 0rem 0 3rem 7rem;
+  }
+  
+  .container {
+    
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+  }
+
+  .card-img{
+
+    width: 4rem;
+    height: auto;
+    float: inline-start;
+  }
+  
+  .card1,
+  .card2 {
+
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    transform-origin: bottom;
+  }
+  
+  .card {
+    width: 100%;
+    height:auto;
+    border: none;
+    padding: 2rem;
+    animation-timing-function: ease;
+    z-index: 1;
+border-radius: 3rem;
+margin-top: 4rem;
+
+}
+
+  
+  .card1{
+   width: 100%;
+    height: 18rem; 
+  
+    margin: 3rem 0 -18rem 0;
+    
+    
+    
+  }
+  .card2 {
+   width: 100%;
+height: 18rem;
+    display: flex;
+    flex-direction: column;
+    z-index: 0;
+    background-color: #fa4000;
+    margin: -12.5rem 0 0 0 ;
+   
+   opacity: 0;
+  }
+  .container:hover .card1 {
+    opacity: 0;
+  }
+  
+  .container:hover .card2 {
+    opacity: 1;
+    z-index: 1;
+  }
+
+@media (max-width:500px){
+
+  .wOrOw {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 5rem 0;
+    margin-top: 1rem;
+  }
+  
+  .WeWork {
+    width:100%;
+    height: auto;
+  }
+  
+  .WoToprect {
+    width: 1rem;
+    height: auto;
+    margin: 5rem 0 0 -5%;
+  }
+  
+  .WORect {
+    width: 150px;
+    height: auto;
+    margin: 0 0 0 -1rem;
+  }
+  
+  .WorkOnSGDiv {
+    margin: -4rem 0 0 1rem;
+  }
+  
+  .WorkOnG {
+    width:150px;
+    height: auto;
+    background-color: #ec956d;
+    border-radius: 14rem;
+    margin: -60px 0 0 -140px;
+  }
+  
+  .WorkOnSBG {
+        width:120px;
+        height: auto;
+    margin: -28px -1.5rem 0 25px;
+  }
+
+  .container {
+    
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+  }
+
+    
+  .card1,
+  .card2 {
+
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    transform-origin: bottom;
+  }
+   
+  .card {
+    width: 100%;
+    height:auto;
+    border: none;
+    padding: 2rem;
+    animation-timing-function: ease;
+    z-index: 1;
+border-radius: 3rem;
+
+margin-top: 2rem;
+
+} 
+
+
+  
+.card1{
+  width: 100%;
+  height: 23rem !important;
+  margin: 3rem 0 -22.65rem 0;
+opacity: 1;    
+  
+}
+
+.card2 {
+  width: 100%;
+  height: 23rem;
+  display: flex;
+    z-index: 0;
+  background-color: #fa4000;
+  margin: 0rem 0 0 0 ;
+ 
+ opacity: 0;
+}
+
+.container:hover .card1 {
+  opacity: 0;
+}
+
+.container:hover .card2 {
+  opacity: 1;
+  z-index: 1;
+}
+
+.card-title{
+font-size: 95%;
+font-weight: 700;
+}
+
+
+
+}
+
+
+
+@media (min-width:500px) and (max-width:768px){
+
+  .wOrOw {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 5rem 0;
+    margin-top: 1rem;
+  }
+  
+  .WeWork {
+    width:100%;
+    height: auto;
+  }
+  
+  .WoToprect {
+    width: 1rem;
+    height: auto;
+    margin: 5rem 0 0 0%;
+  }
+  
+  .WORect {
+    width: 40%;
+    height: auto;
+    margin: 0 0 0 -1rem;
+  }
+  
+  .WorkOnSGDiv {
+    margin: -4rem 0 0 1rem;
+  }
+  
+  .WorkOnG {
+    width:40%;
+    height: auto;
+    background-color: #ec956d;
+    border-radius: 14rem;
+    margin: -6rem 0 0 -10.5rem;
+  }
+  
+  .WorkOnSBG {
+        width:30%;
+        height: auto;
+    margin: -4.5rem -1.5rem 0 2.5rem;
+  }
+
+  .container {
+    
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+  }
+
+    
+  .card1,
+  .card2 {
+
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    transform-origin: bottom;
+  }
+   
+  .card {
+    width: 100%;
+    height:auto;
+    border: none;
+    padding: 2rem;
+    animation-timing-function: ease;
+    z-index: 1;
+border-radius: 3rem;
+
+margin-top: 2rem;
+
+} 
+
+
+  
+.card1{
+  width: 80%;
+  height: 20rem;
+  margin: 3rem auto -22rem auto;
+opacity: 1;    
+  
+}
+
+.card2 {
+  width: 80%;
+  height: 20rem;
+  display: flex;
+    z-index: 0;
+  background-color: #fa4000;
+  margin: 2rem auto 0 auto ;
+ 
+ opacity: 0;
+}
+
+.container:hover .card1 {
+  opacity: 0;
+}
+
+.container:hover .card2 {
+  opacity: 1;
+  z-index: 1;
+}
+
+.card-title{
+font-size: 95%;
+font-weight: 700;
+}
+
+
+
+}
+
+
+
+@media (min-width:768px) and (max-width:991px){
+
+  .wOrOw {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 5rem 0;
+    margin-top: 1rem;
+  }
+  
+  .WeWork {
+    width:100%;
+    height: auto;
+    margin: 0 0 0 1rem;
+  
+  }
+  
+  .WoToprect {
+    width: 2rem;
+    height: auto;
+    margin: 5rem 0 0 0%;
+  }
+  
+  .WORect {
+    width: 40%;
+    height: auto;
+    margin: 0 0 0 1rem;
+  }
+  
+  .WorkOnSGDiv {
+    margin: -4rem 0 0 1rem;
+  }
+  
+  .WorkOnG {
+    width:40%;
+    height: auto;
+    background-color: #ec956d;
+    border-radius: 14rem;
+    margin: -11rem 0rem 2rem -11.5rem;
+  }
+  
+  .WorkOnSBG {
+        width:30%;
+        height: auto;
+    margin: -12rem -6.5rem 0 6.5rem;
+  }
+
+  .container {
+    
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+  }
+
+    
+  .card1,
+  .card2 {
+
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    transform-origin: bottom;
+  }
+   
+  .card {
+    width: 100%;
+    height:auto;
+    border: none;
+    padding: 2rem;
+    animation-timing-function: ease;
+    z-index: 1;
+border-radius: 3rem;
+
+margin-top: 2rem;
+
+} 
+
+
+  
+.card1{
+  width: 100%;
+  height: 22rem;
+  
+  margin: 5rem 0 -25.65rem 0;
+opacity: 1;    
+  
+}
+
+.card2 {
+  width: 100%;
+  height: 22rem;
+  display: flex;
+    z-index: 0;
+  background-color: #fa4000;
+  margin: 3.5rem 0 0 0 ;
+ 
+ opacity: 0;
+}
+
+.container:hover .card1 {
+  opacity: 0;
+}
+
+.container:hover .card2 {
+  opacity: 1;
+  z-index: 1;
+}
+
+.card-title{
+font-size: 95%;
+font-weight: 700;
+}
+
+
+
+}
+
+
+
+
+
+
+
+@media (min-width:991px) and (max-width:1200px){
+
+  .wOrOw {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 5rem 0;
+    margin-top: 1rem;
+  }
+  
+  .WeWork {
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+  
+  }
+  
+  .WoToprect {
+    width:4%;
+    height: auto;
+    margin: 5rem 0 0 7%;
+  }
+  
+  .WORect {
+    width: 70%;
+    height: auto;
+    
+  }
+  
+  .WorkOnSGDiv {
+    margin: -4rem 0 0 1rem;
+  }
+  
+  .WorkOnG {
+    width:70%;
+    height: auto;
+    background-color: #ec956d;
+    border-radius: 14rem;
+  
+  }
+  
+  .WorkOnSBG {
+        width:55%;
+        height: auto;
+margin:-2rem 0  3.5rem 4.5rem;  
+
+      }
+
+  .container {
+    
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+  }
+
+    
+  .card1,
+  .card2 {
+
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    transform-origin: bottom;
+  }
+   
+  .card {
+    width: 100%;
+    height:auto;
+    border: none;
+    padding: 2rem;
+    animation-timing-function: ease;
+    z-index: 1;
+border-radius: 3rem;
+
+margin-top: 2rem;
+
+} 
+
+
+  
+.card1{
+  width: 100%;
+  height:22rem;
+  
+  margin: 8rem 0 -25.5rem 0;
+opacity: 1;  
+
+  
+}
+
+.card2 {
+  width: 100%;
+  height:22rem;
+  display: flex;
+    z-index: 0;
+  background-color: #fa4000;
+  margin: 3.5rem 0 0 0 ;
+ 
+ opacity: 0;
+}
+
+.container:hover .card1 {
+  opacity: 0;
+}
+
+.container:hover .card2 {
+  opacity: 1;
+  z-index: 1;
+}
+
+.card-title{
+font-size: 70%;
+font-weight: 700;
+}
+
+
+
+}
+
+
+
+
+
+
+@media (min-width:1201px) and (max-width:1534px){
+
+  .wOrOw {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 0rem 0;
+    margin-top: 1rem;
+  }
+  
+  .WeWork {
+    display: flex;
+
+    width:80%;
+    height: auto;
+    margin: 0rem auto;
+  
+  }
+  
+  .WoToprect {
+    width: 4%;
+    height: auto;
+    margin: 0rem 0 0 7%;
+  }
+  
+  .WORect {
+    width: 70%;
+    height: auto;
+    
+  }
+  
+  .WorkOnSGDiv {
+    margin: -4rem 0 0 1rem;
+  }
+  
+  .WorkOnG {
+    width:70%;
+    height: auto;
+    background-color: #ec956d;
+    border-radius: 14rem;
+    margin-top: -32rem;
+  
+  }
+  
+  .WorkOnSBG {
+        width:55%;
+        height: auto;
+        margin: -5rem 0 0 5.5rem;
+
+
+      }
+
+  .container {
+    
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+  }
+
+    
+  .card1,
+  .card2 {
+
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    transform-origin: bottom;
+  }
+   
+  .card {
+    width: 100%;
+    height:auto;
+    border: none;
+    padding: 2rem;
+    animation-timing-function: ease;
+    z-index: 1;
+border-radius: 3rem;
+
+margin-top: 2rem;
+
+} 
+
+
+  
+.card1{
+  
+  margin: 5.1rem 0 -26.8rem 0;
+opacity: 1;  
+
+
+  
+}
+
+.card2 {
+  display: flex;
+    z-index: 0;
+  background-color: #fa4000;
+  margin: 7.6rem 0 0 0 ;
+ 
+ opacity: 0;
+}
+
+.container:hover .card1 {
+  opacity: 0;
+}
+
+.container:hover .card2 {
+  opacity: 1;
+  z-index: 1;
+}
+
+.card-title{
+font-size:1rem;
+font-weight: 700;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
