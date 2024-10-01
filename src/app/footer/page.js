@@ -1,12 +1,12 @@
 "use client";
 import React from 'react';
-import '/public/style/footerStyle.css'
+import '/style/footerStyle.css'
 import Image from 'next/image';
 import Link from 'next/link';
-import Logobb from '/public/images/logoFooter.png'
-import facebook from '/public/images/facebook.png'
-import instagram from '/public/images/instagram.png'
-import twitter from '/public/images/LinkedIn.png'
+import Logobb from '/images/logoFooter.png'
+import facebook from '/images/facebook.png'
+import instagram from '/images/instagram.png'
+import twitter from '/images/LinkedIn.png'
 
 
 const footer = () => {

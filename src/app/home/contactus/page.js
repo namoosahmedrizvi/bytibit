@@ -4,11 +4,11 @@ import react from 'react';
 
 import Link from 'next/link';
 
-import '/public/style/contactUsStyle.css';
+import '/style/contactUsStyle.css';
 import Image from 'next/image';
-import Vector8 from '/public/images/Vector8.png'
-import DoubleRect from '/public/images/DoubleRect.png'
-import PatternAYR from '/public/images/PatternAYR.png'
+import Vector8 from '/images/Vector8.png'
+import DoubleRect from '/images/DoubleRect.png'
+import PatternAYR from '/images/PatternAYR.png'
 const ContactUs = () => {
   
 

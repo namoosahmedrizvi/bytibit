@@ -2,9 +2,9 @@
 
 import React, { useEffect, useState } from 'react'; // Import React, useEffect, and useState
 import Link from 'next/link';
-import '/public/style/navbarStyle.css';
+import '/style/navbarStyle.css';
 import Image from 'next/image';
-import LogoImg from '/public/images/Logo.png';
+import LogoImg from '/images/Logo.png';
 
 const NavbarPage = () => {
   // State to manage the collapse status

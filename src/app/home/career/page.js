@@ -2,24 +2,24 @@
 "use client"
 import React from 'react';
 
-import '/public/style/CraeerStyle.css';
+import '/style/CraeerStyle.css';
 import Image from 'next/image';
 
-import Rectangle from '/public/images/Rectangle33.png';
-import WorkWithUsImg from '/public/images/WorkWithUsimg.png';
-import WorkWithUsImg2 from '/public/images/WorkWithUsimg2.png';
-import WorkWithUsImg3 from '/public/images/WorkWithUsimg3.png';
-import WorkWithUsImg4 from '/public/images/WorkWithUsimg4.png';
-import WorkWithUsImg5 from '/public/images/WorkWithUsimg5.png';
-import WorkWithUsImg1a from '/public/images/WorkWithUsimg1a.png';
-import WorkWithUsImg2a from '/public/images/WorkWithUsimg2a.png';
-import WorkWithUsImg3a from '/public/images/WorkWithUsimg3a.png';
-import WorkWithUsImg4a from '/public/images/WorkWithUsimg4a.png';
-import WorkWithUsImg5a from '/public/images/WorkWithUsimg5a.png';
-import WebDevelopment from '/public/images/Web Development.png';
+import Rectangle from '/images/Rectangle33.png';
+import WorkWithUsImg from '/images/WorkWithUsimg.png';
+import WorkWithUsImg2 from '/images/WorkWithUsimg2.png';
+import WorkWithUsImg3 from '/images/WorkWithUsimg3.png';
+import WorkWithUsImg4 from '/images/WorkWithUsimg4.png';
+import WorkWithUsImg5 from '/images/WorkWithUsimg5.png';
+import WorkWithUsImg1a from '/images/WorkWithUsimg1a.png';
+import WorkWithUsImg2a from '/images/WorkWithUsimg2a.png';
+import WorkWithUsImg3a from '/images/WorkWithUsimg3a.png';
+import WorkWithUsImg4a from '/images/WorkWithUsimg4a.png';
+import WorkWithUsImg5a from '/images/WorkWithUsimg5a.png';
+import WebDevelopment from '/images/Web Development.png';
 
-import Vector7 from '/public/images/Vector7.png';
-import Group33 from '/public/images/Group33.png';
+import Vector7 from '/images/Vector7.png';
+import Group33 from '/images/Group33.png';
 
 const Career = () => {
   return(

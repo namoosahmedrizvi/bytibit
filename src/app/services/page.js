@@ -4,27 +4,27 @@ import react from 'react';
 
 
 
-import '/public/style/servicesStyle.css';
+import '/style/servicesStyle.css';
 import Image from 'next/image';
 
-import WeWork from '/public/images/WeWork.png';
-import WoToprect from '/public/images/WoToprect.png';
-import WOrect from '/public/images/WORect.png';
-import WorkOnG from '/public/images/WorkOnG.png';
-import WorkOnSBG from '/public/images/WorkOnSBG.png';
-import qualityControl from '/public/images/quality-control.png';
-import setting from '/public/images/setting-orange.png';
-import WebDevelopment from '/public/images/Web Development.png';
-import graphicdesign from '/public/images/graphic-design.png';
-import digitalMarketing from '/public/images/digital-marketing.png';
-import MobileApp from '/public/images/MobileApp.png';
-import digitalMarketingW from '/public/images/digitalMarketingW.png';
-import graphicW from '/public/images/graphicW.png';
-import WebDevelopmentW from '/public/images/WebDevelopmentW.png';
-import settingW from '/public/images/settingW.png';
-import MobileAppW from '/public/images/MobileAppW.png';
-import qualityControlw from '/public/images/qualityControlw.png';
-import BannerImg from '/public/images/serBan.jpg';
+import WeWork from '/images/WeWork.png';
+import WoToprect from '/images/WoToprect.png';
+import WOrect from '/images/WORect.png';
+import WorkOnG from '/images/WorkOnG.png';
+import WorkOnSBG from '/images/WorkOnSBG.png';
+import qualityControl from '/images/quality-control.png';
+import setting from '/images/setting-orange.png';
+import WebDevelopment from '/images/Web Development.png';
+import graphicdesign from '/images/graphic-design.png';
+import digitalMarketing from '/images/digital-marketing.png';
+import MobileApp from '/images/MobileApp.png';
+import digitalMarketingW from '/images/digitalMarketingW.png';
+import graphicW from '/images/graphicW.png';
+import WebDevelopmentW from '/images/WebDevelopmentW.png';
+import settingW from '/images/settingW.png';
+import MobileAppW from '/images/MobileAppW.png';
+import qualityControlw from '/images/qualityControlw.png';
+import BannerImg from '/images/serBan.jpg';
 
 
 

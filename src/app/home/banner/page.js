@@ -1,12 +1,12 @@
 "use client";
 import React from 'react';
-import '/public/style/bannerStyle.css';
+import '/style/bannerStyle.css';
 import Image from 'next/image';
 import Link from 'next/link';
-import Spring from '/public/images/Spring.png';
-import Rectangle from '/public/images/Rectangle.png';
-import LeftImg from '/public/images/LeftImg.png';
-import RightImg from '/public/images/RightImg.png';
+import Spring from '/images/Spring.png';
+import Rectangle from '/images/Rectangle.png';
+import LeftImg from '/images/LeftImg.png';
+import RightImg from '/images/RightImg.png';
 
 const Banner = () => {
   return (

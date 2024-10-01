@@ -5,19 +5,19 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 
 
-import '/public/style/portfolioStyle.css';
+import '/style/portfolioStyle.css';
 import Image from 'next/image';
-import laptop1 from '/public/images/laptop.png';
-import laptop2 from '/public/images/chatfailap.png';
-import laptop3 from '/public/images/lnkmngrlap.png';
-import portSpring from '/public/images/portSpring.png';
-// import line from '/public/images/line.png';
-// import lineSpr from '/public/images/linespr.png';
-import Ai from '/public/images/Ai2.png';
-import uiux from '/public/images/uiux.png';
-import Ma from '/public/images/Ma2.png';
-import webApp from '/public/images/webApp2.png';
-import chrome from '/public/images/chrome2.png';
+import laptop1 from '/images/laptop.png';
+import laptop2 from '/images/chatfailap.png';
+import laptop3 from '/images/lnkmngrlap.png';
+import portSpring from '/images/portSpring.png';
+// import line from '/images/line.png';
+// import lineSpr from '/images/linespr.png';
+import Ai from '/images/Ai2.png';
+import uiux from '/images/uiux.png';
+import Ma from '/images/Ma2.png';
+import webApp from '/images/webApp2.png';
+import chrome from '/images/chrome2.png';
 
 
 

@@ -4,13 +4,13 @@ import react from 'react';
 
 
 
-import '/public/style/AbouUsStyle.css'
+import '/style/AbouUsStyle.css'
 import Image from 'next/image';
 
-import Rectangle from '/public/images/Rectangle.png'
-import WtPattren from '/public/images/WtPattren.png'
-import Girl from '/public/images/Girl.png'
-import Vector6 from '/public/images/Vector6.png'
+import Rectangle from '/images/Rectangle.png'
+import WtPattren from '/images/WtPattren.png'
+import Girl from '/images/Girl.png'
+import Vector6 from '/images/Vector6.png'
 
 
 

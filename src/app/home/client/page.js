@@ -1,14 +1,14 @@
 "use client";
 import React from 'react';
 import Image from 'next/image';
-import '/public/style/logoBarStyle.css'
+import '/style/logoBarStyle.css'
 import Link from 'next/link';
 
-import SocialBu from '/public/images/SocialBu.png';
-import ChatFai from '/public/images/ChatFai.png';
-import LinkMngr from '/public/images/LinkMngr.png';
-import teacheasy from '/public/images/teacheasy.png';
-import FPC from '/public/images/FPC.png';
+import SocialBu from '/images/SocialBu.png';
+import ChatFai from '/images/ChatFai.png';
+import LinkMngr from '/images/LinkMngr.png';
+import teacheasy from '/images/teacheasy.png';
+import FPC from '/images/FPC.png';
 
 const Client = () => {
   return (
