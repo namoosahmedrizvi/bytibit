@@ -4,3 +4,39 @@
     font-weight: 600;
     
 }
+
+.LogoImg{
+    width: 7rem;
+    height: auto;
+}
+
+
+.navbar-nav{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    justify-items: end;
+    align-content: end;
+    margin: 0 0 0 0%;
+}
+
+@media (max-width:991px){
+    .nav-item{
+        font-size: 1.3rem;
+        margin: 0 0 0 0rem;
+        font-weight: 600;
+        
+    }
+    .navbar-nav{
+        display: flex;
+        justify-content: start;
+        align-items: start;
+        justify-items: start;
+        align-content: start;
+        margin: 0 0 0 0%;
+    }
+    
+    
+    
+    
+}

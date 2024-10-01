@@ -24,7 +24,6 @@ import WebDevelopmentW from '/public/images/WebDevelopmentW.png';
 import settingW from '/public/images/settingW.png';
 import MobileAppW from '/public/images/MobileAppW.png';
 import qualityControlw from '/public/images/qualityControlw.png';
-import BannerImg from '/public/images/serBan.jpg';
 
 
 
@@ -39,10 +38,6 @@ const Services = () => {
 
   return (
 <div className='container-fluid Wocf' id='Services'>
-<div className='row'>
-
-<Image src={BannerImg} alt='' className='BannerImg' />
-</div>
 <div className='row p-5 wOrOw' >
   <div className='col-lg-2 col-md-3 '></div>
   <div className='col-lg-8 col-md-12 col-12'>

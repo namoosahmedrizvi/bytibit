@@ -2,9 +2,9 @@
 
 import React, { useEffect, useState } from 'react'; // Import React, useEffect, and useState
 import Link from 'next/link';
-import '../../../public/style/navbarStyle.css';
+import '/public/style/navbarStyle.css';
 import Image from 'next/image';
-import LogoImg from '../../../public/images/Logo.png';
+import LogoImg from '/public/images/Logo.png';
 
 const NavbarPage = () => {
   // State to manage the collapse status
@@ -21,7 +21,7 @@ const NavbarPage = () => {
 
   return (
     <div  id='Home'>
-      <nav className="navbar navbar-expand-lg">
+      <nav className="navbar navbar-expand-lg " id='navBar'>
         <div className="container-fluid">
         <Link href="/#Home" className="nav-link active" aria-current="page">
             <Image src={LogoImg} alt="LogoImg" className="LogoImg" />
@@ -48,9 +48,9 @@ const NavbarPage = () => {
             }`}
             id="navbarSupportedContent"
           >
-            <ul className="navbar-nav mb-2 mb-lg-0">
+            <ul className="navbar-nav mb-2 mb-lg-0 justify-content-end align-item-end" style={{float:'left'}}>
               <li className="nav-item">
-                <Link href="/#Services" className="nav-link active" aria-current="page">
+                <Link href="/services" className="nav-link active" aria-current="page">
                   Services
                 </Link>
               </li>
